@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 Dec 2022 22:57:23 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/home/</link>
+      <pubDate>Wed, 07 Dec 2022 22:57:23 +0800</pubDate>
+      
+      <guid>/posts/home/</guid>
+      
+        <description>做为技术人，还是要认真研究技术，每天注重积累，不管平时多忙多累，一个热爱生活的小菜鸟。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
