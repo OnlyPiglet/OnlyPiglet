@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Hello, I'm onlypiglet 👋
-- ![onlypiglet](https://komarev.com/ghpvc/?username=onlypiglet) ![onlypiglet](https://visitor-badge.glitch.me/badge?page_id=onlypiglet.profile)
+- ![onlypiglet](https://komarev.com/ghpvc/?username=onlypiglet)
 
 ## Tags
 
