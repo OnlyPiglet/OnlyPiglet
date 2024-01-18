@@ -10,8 +10,7 @@
 - 👯 _never takes two_ follower
 - 🤔 _why does it run_ creator
 - 💬 _Hello World!_ tester
-- 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/wswch19941012) 
-- 📫 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackwuchenghao4@gmail.com)](mailto:sumyggsun@gmail.com)
+- 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/wswch19941012) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackwuchenghao4@gmail.com)](mailto:sumyggsun@gmail.com)
 
 
 ## Some Statistics About Me
